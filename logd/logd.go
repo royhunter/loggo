@@ -1,8 +1,7 @@
-// logd project main.go
 package main
 
 import (
-	"os"
+    "os"
 	"github.com/codegangsta/cli"
 )
 
